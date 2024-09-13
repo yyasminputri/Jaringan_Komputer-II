@@ -4,7 +4,7 @@
 
 **Answer: 1089 (packets)**
 
-- Flag
+- Flag <br>
 Nomor 1 di bagian a menunjukkan jumlah total paket yang terekam dalam file pcapng, yaitu 1089 packets. Flag yang ditemukan pada nomor 1 di bagian a adalah : 
 `JARKOM24{K4mu_K3r3n_0CHM7NFTA4ZTT7VW9HNWP3VVXURUF50xL4ughafj1pkt52dgrn1hlocj7aa3}`
   
