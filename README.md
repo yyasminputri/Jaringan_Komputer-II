@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/99wpTe72)
 | Name           | NRP        | Kelas     |
 | ---            | ---        | ----------|
-| Rafli Raihan Pramudya  | 5025221273 | Jaringan Komputer A |
+| Rafli Raihan Pramudya  | 5025221266 | Jaringan Komputer A |
 | Yasmin Putri Sujono    | 5025221273 | Jaringan Komputer A |
 
 ## Put your topology config image here!
